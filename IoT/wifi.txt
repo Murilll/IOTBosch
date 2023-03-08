@@ -1,0 +1,9 @@
+#define WIFI_SSID "Vivo-Internet-BF17"
+#define WIFI_PASSWORD "78814222"
+
+
+Login:
+https://iot-tds2-default-rtdb.firebaseio.com/
+
+Senha:
+mqMcwIUOIHH79GyoCkmBkZAU9C87LBPI0ran7xgY

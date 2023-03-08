@@ -1,0 +1,17 @@
+https://inside-docupedia.bosch.com/confluence/pages/viewpage.action?pageId=2045884732
+
+rb-proxy-de.bosch.com
+8080
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
+
+DOWNLOAD SQL: https://aka.ms/ssmsfullsetup
+
+link FIREBASE (host): https://teste-wifi-c03ff-default-rtdb.firebaseio.com/
+ 
+Chave secreta FIREBASE: 1NIKuQEKMWBk2Ts3yXsPhz31NOORdpbUTSbNav3D
+
+https://dl.espressif.com/dl/package_esp32_index.json
+
+SENSOR DE GÁS: https://diyi0t.com/mq2-gas-sensor-arduino-esp8266-esp32/
+
+https://downloads.arduino.cc/libraries/library_index.json
